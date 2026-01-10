@@ -8,6 +8,13 @@
       "decimals": 18,
       "address": "0x95322ccb3fb8ddefd210805ee18662762a0bc4a2",
       "logoURI": "https://raw.githubusercontent.com/qieadmin/qie-logo/main/WETH.png"
+    },
+    {
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "address": "0x9e02ba5de6d26d5ca5688ed3999c6bcf4f3e966e",
+      "logoURI": "https://raw.githubusercontent.com/qieadmin/qie-logo/main/WETH.png"
     }
   ]
 }
