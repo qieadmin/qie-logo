@@ -1,0 +1,13 @@
+{
+  "name": "QIE Chain Token Metadata",
+  "timestamp": "2026-01-10T00:00:00Z",
+  "tokens": [
+    {
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x95322ccb3fb8ddefd210805ee18662762a0bc4a2",
+      "logoURI": "https://raw.githubusercontent.com/qieadmin/qie-logo/main/WETH.png"
+    }
+  ]
+}
